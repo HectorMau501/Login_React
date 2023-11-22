@@ -1,0 +1,15 @@
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh; 
+    margin: 0; 
+}
+h1{
+    background-position:top;
+    text-align: center;
+    color: #333333;
+    background: hsl(0, 0%, 100%);
+    padding: 10px;
+    border-radius: 15px;
+    width: 20rem;
+}
